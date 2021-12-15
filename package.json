@@ -1,0 +1,23 @@
+{
+  "name": "library-inventory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dupaxtax/library-inventory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dupaxtax/library-inventory/issues"
+  },
+  "homepage": "https://github.com/dupaxtax/library-inventory#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
